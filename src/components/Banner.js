@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">  
                 </span>
                 <h1>{`Hi! I'm:`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["a Computer Engineer","a Student","a Developer"]'><span className="wrap">{text}</span></span></h1>
-                  <p>A junior at Rutgers University pursuing a BS in Computer Engineering with a minor in Computer Science. I am deeply passionate about leveraging technology to solve real-world problems. My journey has been marked by active involvement in the IEEE community and hands-on experience in software development, AI integration, and innovative project execution.
+                  <p>As a junior at Rutgers University pursuing a BS in Computer Engineering with a minor in Computer Science, I am deeply passionate about leveraging technology to solve real-world problems. My journey has been marked by active involvement in the IEEE community and hands-on experience in software development, AI integration, and innovative project execution.
 
 I have developed a strong technical foundation with proficiency in Java, Python, MATLAB, and web development frameworks like Next.js and React. My skills extend to data science with tools like Pandas and machine learning, as well as hardware expertise in digital logic/circuit design and test equipment.
 
