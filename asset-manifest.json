@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fa9cc89b.css",
+    "main.js": "/my-portfolio/static/js/main.b43aa96e.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/illustration-anime-city.jpg": "/my-portfolio/static/media/illustration-anime-city.614761dacbfec4d7e4d5.jpg",
+    "static/media/japan-background-digital-art.jpg": "/my-portfolio/static/media/japan-background-digital-art.695fd1dd880a5cbd51f1.jpg",
+    "static/media/japan-background-digital-art (1).jpg": "/my-portfolio/static/media/japan-background-digital-art (1).8b01d03233a100f0ed05.jpg",
+    "static/media/color-sharp.png": "/my-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/my-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/Rishab-Patel-9-11-2024 (3).png": "/my-portfolio/static/media/Rishab-Patel-9-11-2024 (3).de03bf2846d6f21ef83f.png",
+    "static/media/header-img.svg": "/my-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.f242676065c10f548c65.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/my-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/my-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/my-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/my-portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/my-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/my-portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/my-portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/my-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/coding_2010957.png": "/my-portfolio/static/media/coding_2010957.5b8dbc13adb163e8022e.png",
+    "static/media/engineering_2861721.png": "/my-portfolio/static/media/engineering_2861721.a7ac0b5d37ed1df75dcc.png",
+    "static/media/coding_17359748.png": "/my-portfolio/static/media/coding_17359748.284df2778d18f48f8570.png",
+    "static/media/revicons.eot": "/my-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/my-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/my-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/icons8-github-30.svg": "/my-portfolio/static/media/icons8-github-30.d4577cfbb9306cfe891b2ac5c1586b8c.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/my-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/my-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/my-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.fa9cc89b.css.map": "/my-portfolio/static/css/main.fa9cc89b.css.map",
+    "main.b43aa96e.js.map": "/my-portfolio/static/js/main.b43aa96e.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9cc89b.css",
+    "static/js/main.b43aa96e.js"
+  ]
+}
