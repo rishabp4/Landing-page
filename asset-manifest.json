@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.fa9cc89b.css",
-    "main.js": "/my-portfolio/static/js/main.b43aa96e.js",
+    "main.js": "/my-portfolio/static/js/main.27ebc11a.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/illustration-anime-city.jpg": "/my-portfolio/static/media/illustration-anime-city.614761dacbfec4d7e4d5.jpg",
     "static/media/japan-background-digital-art.jpg": "/my-portfolio/static/media/japan-background-digital-art.695fd1dd880a5cbd51f1.jpg",
     "static/media/japan-background-digital-art (1).jpg": "/my-portfolio/static/media/japan-background-digital-art (1).8b01d03233a100f0ed05.jpg",
     "static/media/color-sharp.png": "/my-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/my-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/Rishab-Patel-9-11-2024 (3).png": "/my-portfolio/static/media/Rishab-Patel-9-11-2024 (3).de03bf2846d6f21ef83f.png",
+    "static/media/RishabP.Resume.pdf": "/my-portfolio/static/media/RishabP.Resume.a1e83a2d704524d64a05.pdf",
     "static/media/header-img.svg": "/my-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/resume.pdf": "/my-portfolio/static/media/resume.f242676065c10f548c65.pdf",
     "static/media/CentraNo2-Bold.ttf": "/my-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/my-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/my-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -22,6 +21,7 @@
     "static/media/coding_2010957.png": "/my-portfolio/static/media/coding_2010957.5b8dbc13adb163e8022e.png",
     "static/media/engineering_2861721.png": "/my-portfolio/static/media/engineering_2861721.a7ac0b5d37ed1df75dcc.png",
     "static/media/coding_17359748.png": "/my-portfolio/static/media/coding_17359748.284df2778d18f48f8570.png",
+    "static/media/cooltext465988631738885.png": "/my-portfolio/static/media/cooltext465988631738885.ee4c931f02e9f549a751.png",
     "static/media/revicons.eot": "/my-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/my-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/my-portfolio/static/media/revicons.e8746a624ed098489406.woff",
@@ -33,11 +33,11 @@
     "static/media/arrow2.svg": "/my-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/my-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.fa9cc89b.css.map": "/my-portfolio/static/css/main.fa9cc89b.css.map",
-    "main.b43aa96e.js.map": "/my-portfolio/static/js/main.b43aa96e.js.map",
+    "main.27ebc11a.js.map": "/my-portfolio/static/js/main.27ebc11a.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa9cc89b.css",
-    "static/js/main.b43aa96e.js"
+    "static/js/main.27ebc11a.js"
   ]
 }
